@@ -1,3 +1,9 @@
+# Project MAM (The Next edition)
+
+This is the repository for my personal website. I have a domain already (projectmam.com) and will be using next.js to scaffold my typescript react app and netlify for hosting.
+
+## About
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
