@@ -14,6 +14,7 @@ export default function Home() {
       <main className={styles.main}>
         <Image src="/project-mam-logo-white.png" alt="Project MAM Logo" width={425} height={170}/>
         <h1>Under Construction</h1>
+	<p>Concourse test</p>
       </main>
 
       <footer className={styles.footer}>
